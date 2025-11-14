@@ -59,4 +59,73 @@
         </plugins>
     </build>
 
+    <modules>
+        <module>tutorials-10.0-1</module>
+        <module>tutorials-10.0-2</module>
+        <module>tutorials-11.0-1</module>
+        <module>tutorials-11.0-2</module>
+        <module>tutorials-12.0-0</module>
+        <module>tutorials-12.0-1</module>
+        <module>tutorials-12.0-2</module>
+        <module>tutorials-13.0-0</module>
+        <module>tutorials-13.0-1</module>
+        <module>tutorials-13.0-2</module>
+        <module>tutorials-14.0-1</module>
+        <module>tutorials-14.0-2</module>
+        <module>tutorials-15.0-0</module>
+        <module>tutorials-16.0-0</module>
+        <module>tutorials-16.0-1</module>
+        <module>tutorials-16.0-2</module>
+        <module>tutorials-17.0-0</module>
+        <module>tutorials-17.0-1</module>
+        <module>tutorials-17.0-2</module>
+        <module>tutorials-18.0-0</module>
+        <module>tutorials-19.0-1</module>
+        <module>tutorials-19.0-2</module>
+        <module>tutorials-2.1-0</module>
+        <module>tutorials-2.1-1</module>
+        <module>tutorials-2.2-0</module>
+        <module>tutorials-2.3-0</module>
+        <module>tutorials-2.3-1</module>
+        <module>tutorials-2.4-0</module>
+        <module>tutorials-2.4-1</module>
+        <module>tutorials-2.5-0</module>
+        <module>tutorials-2.5-1</module>
+        <module>tutorials-2.6-0</module>
+        <module>tutorials-2.6-1</module>
+        <module>tutorials-20.0-0</module>
+        <module>tutorials-21.0-0</module>
+        <module>tutorials-21.0-1</module>
+        <module>tutorials-21.0-2</module>
+        <module>tutorials-22.0-0</module>
+        <module>tutorials-22.0-1</module>
+        <module>tutorials-22.0-2</module>
+        <module>tutorials-23.0-1</module>
+        <module>tutorials-23.0-2</module>
+        <module>tutorials-24.0-0</module>
+        <module>tutorials-25.0-0</module>
+        <module>tutorials-4.0-0</module>
+        <module>tutorials-4.0-1</module>
+        <module>tutorials-4.0-2</module>
+        <module>tutorials-5.0-0</module>
+        <module>tutorials-5.0-1</module>
+        <module>tutorials-5.0-2</module>
+        <module>tutorials-6.0-0</module>
+        <module>tutorials-6.0-1</module>
+        <module>tutorials-6.0-2</module>
+        <module>tutorials-7.0-0</module>
+        <module>tutorials-7.0-1</module>
+        <module>tutorials-7.0-2</module>
+        <module>tutorials-8.0-0</module>
+        <module>tutorials-9.0-0</module>
+        <module>tutorials-9.0-1</module>
+        <module>tutorials-9.0-2</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
 </project>
